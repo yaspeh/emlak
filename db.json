@@ -1,0 +1,124 @@
+{
+  "kullanici": [
+    {
+      "KullaniciAdi": "admin",
+      "Isim": "yasin",
+      "Soyisim": "pehlivan",
+      "Email": "y4sp3h@gmail.com",
+      "Parola": "admin",
+      "KatilmaTarih": "2021-11-21T16:22:26.943Z",
+      "Yasaklimi": false,
+      "Yetkilimi": true,
+      "id": 1
+    },
+    {
+      "KullaniciAdi": "alp",
+      "Isim": "alp",
+      "Soyisim": "alp",
+      "Email": "alperen@gmail.com",
+      "Parola": "alp",
+      "KatilmaTarih": "2021-11-29T22:42:07.687Z",
+      "Yasaklimi": false,
+      "Yetkilimi": false,
+      "id": 2
+    },
+    {
+      "KullaniciAdi": "emre",
+      "Isim": "emre",
+      "Soyisim": "emre",
+      "Email": "emre@gmail.com",
+      "Parola": "emre",
+      "KatilmaTarih": "2021-11-30T10:19:21.690Z",
+      "Yasaklimi": false,
+      "Yetkilimi": false,
+      "id": 3
+    }
+  ],
+  "ilan": [
+    {
+      "Baslik": "Sahibinden acil satılık",
+      "Detay": "konyaaltına 2 dakika yürüme mesafesinde 6+2 tripleks daire",
+      "Fiyat": "4.500.000 TL",
+      "Durum": "Satılık",
+      "Tip": "Müstakil",
+      "Sehir": "Antalya",
+      "Iletisim": "5071930199",
+      "Resim": "C:\\fakepath\\1.png",
+      "KullaniciId": 1,
+      "Tarih": "2021-11-28T21:23:48.743Z",
+      "id": 1
+    },
+    {
+      "Baslik": "Kültür mahallesinde üniye 5 dk",
+      "Detay": "yüksek giris 3+0 3 öğrenci kalabilir\nfiyatlardan şikayet edecekseniz hiç aramayın",
+      "Fiyat": "5000 TL",
+      "Durum": "Kiralık",
+      "Tip": "Daire",
+      "Sehir": "Antalya",
+      "Iletisim": "5071930199",
+      "KullaniciId": 1,
+      "Tarih": "2021-11-28T21:38:12.327Z",
+      "id": 2
+    },
+    {
+      "Baslik": "Kaleiçinde 50m2 depolu dükkan",
+      "Detay": "hollystonenin üst sokağında yeni restore edildi",
+      "Fiyat": "45.000 TL",
+      "Durum": "Kiralık",
+      "Tip": "Müstakil",
+      "Sehir": "Antalya",
+      "Iletisim": "5071930199",
+      "KullaniciId": 1,
+      "Tarih": "2021-11-28T21:43:12.303Z",
+      "id": 3
+    },
+    {
+      "Baslik": "Günlük kiralık sahile yakın",
+      "Detay": "maksimum 5 kişi gelebilir",
+      "Fiyat": "170 TL",
+      "Durum": "Günlük Kiralık",
+      "Tip": "Daire",
+      "Sehir": "Antalya",
+      "Iletisim": "5071930199",
+      "KullaniciId": 1,
+      "Tarih": "2021-11-29T13:51:44.408Z",
+      "id": 4
+    },
+    {
+      "Baslik": "Aile apartmanı sahile yakın 2+1",
+      "Detay": "memura veya sadece kız öğrenciye kiralık\nerkekler aramasın",
+      "Fiyat": "500 TL",
+      "Durum": "Kiralık",
+      "Tip": "Apartman",
+      "Sehir": "Antalya",
+      "Iletisim": "5071930199",
+      "KullaniciId": 1,
+      "Tarih": "2021-11-29T16:25:42.394Z",
+      "id": 5
+    },
+    {
+      "Baslik": "varsakta 160m2 bahçeli",
+      "Detay": "Bahçeli istediğini ek yetiştir uygun fiyatlı",
+      "Fiyat": "290.000 TL",
+      "Durum": "Satılık",
+      "Tip": "Müstakil",
+      "Sehir": "Antalya",
+      "Iletisim": "5071930199",
+      "KullaniciId": 1,
+      "Tarih": "2021-11-29T20:11:47.873Z",
+      "id": 6
+    },
+    {
+      "Baslik": "ev",
+      "Detay": "ev",
+      "Fiyat": "ev",
+      "Durum": "Kiralık",
+      "Tip": "Daire",
+      "Sehir": "Antalya",
+      "Iletisim": "5",
+      "KullaniciId": 1,
+      "Tarih": "2021-11-30T10:19:03.753Z",
+      "id": 7
+    }
+  ]
+}
